@@ -3,7 +3,7 @@ filetype off                  " required
 
 :set number
 
-" Grobal key mapping
+" Golbal key mapping
 :inoremap jj <Esc>
 
 ".vimrc is heighlighted	
